@@ -1,0 +1,9 @@
+strumien:
+entropia =
+
+    5.0215
+
+postprocessing:
+entropia =
+
+    6.2123
